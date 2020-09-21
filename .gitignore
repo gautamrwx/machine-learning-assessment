@@ -2,3 +2,5 @@
 __pycache__/
 raw/
 tensorboard_cifar_logs/
+tensorboard_mnist_digit_logs/
+DATA/MNIST/
